@@ -8,7 +8,6 @@ import {
   StatusBar,
   StyleSheet,
   Text,
-  useColorScheme,
   View,
 } from 'react-native';
 import Snackbar  from 'react-native-snackbar';
